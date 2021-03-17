@@ -19,11 +19,11 @@
 
 ### Languages, Frameworks and Libraries
 <img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
-<img align="left" alt="pandas" width="40px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg" />
+<img align="left" alt="pandas" width="40px" src="https://pbs.twimg.com/profile_images/1187765724451868673/uVw1PWA7_400x400.png" />
 <img align="left" alt="NumPy" width="35px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" />
 
 <img align="left" alt="ScikitLearn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
-<img align="left" alt="Matplotlib" width="40px" src="https://matplotlib.org/_static/logo2_compressed.svg" />
+<img align="left" alt="Matplotlib" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />
 <img align="left" alt="Seaborn" width="40px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
 <img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
