@@ -20,7 +20,7 @@
 ### Languages, Frameworks and Libraries
 <img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt="pandas" width="40px" src="https://pbs.twimg.com/profile_images/1187765724451868673/uVw1PWA7_400x400.png" />
-<img align="left" alt="NumPy" width="35px" src="https://numpy.org/images/logos/numpy.svg" />
+<img align="left" alt="NumPy" width="35px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" />
 
 <img align="left" alt="ScikitLearn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="Matplotlib" width="40px" src="https://matplotlib.org/_static/logo2_compressed.svg" />
@@ -33,6 +33,16 @@
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="40px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" />
+<br />
+<br />
+<hr />
+
+### Databases
+<img align="left" alt="MongoDB" width="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+<img align="left" alt="firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt="oracle" width="40px" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" />
+<img align="left" alt="mysql" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
+<img align="left" alt="postgresql" width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
 <br />
 <br />
 <hr />
