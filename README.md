@@ -42,7 +42,6 @@
 <img align="left" alt="firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="oracle" width="40px" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" />
 <img align="left" alt="mysql" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
-<img align="left" alt="postgresql" width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
 <br />
 <br />
 <hr />
