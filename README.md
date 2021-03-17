@@ -29,10 +29,14 @@
 <img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="NodeJS" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 <img align="left" alt="Java" width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+<img align="left" alt="C#" width="40px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
+<img align="left" alt="Dart" width="40px" src="https://i.pinimg.com/originals/a6/75/cb/a675cb93b75d5f1656c920dceecdcb38.png" />
 <img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img align="left" alt="Unity" width="40px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="40px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" />
+
 <br />
 <br />
 <hr />
