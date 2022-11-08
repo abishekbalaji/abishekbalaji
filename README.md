@@ -55,9 +55,9 @@
 <img align="center" alt="Abishek's Github Stats" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=abishekbalaji&show_icons=true&count_private=true&theme=tokyonight" />
 </a> -->
 
-<a href="#stats">
+<!-- <a href="#stats">
 <img align="center" alt="Abishek's top languages" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=abishekbalaji&layout=compact&langs_count=8&theme=tokyonight" />
-</a>
+</a> -->
 
 [LinkedIn]: https://www.linkedin.com/in/abishek-b-a30a0b19a/
 [twitter]: https://twitter.com/abishek151
