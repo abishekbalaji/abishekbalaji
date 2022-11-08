@@ -2,7 +2,7 @@
 
 # I'm Abishek!
 
-### Data Scientist and Full Stack Developer 👨🏻‍💻
+### Full Stack Developer 👨🏻‍💻
 
 [Email Me!](mailto:abishekbalaji7.151@gmail.com)
  
@@ -50,10 +50,10 @@
 <br />
 <hr />
 
-### Stats
+<!-- ### Stats
 <a href="#stats">
 <img align="center" alt="Abishek's Github Stats" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=abishekbalaji&show_icons=true&count_private=true&theme=tokyonight" />
-</a>
+</a> -->
 
 <a href="#stats">
 <img align="center" alt="Abishek's top languages" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=abishekbalaji&layout=compact&langs_count=8&theme=tokyonight" />
